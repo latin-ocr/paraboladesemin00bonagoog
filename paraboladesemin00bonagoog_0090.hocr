@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./paraboladesemin00bonagoog_0090.png"; bbox 0 0 3166 5162; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 462 1071 1317 1292">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 462 1071 1317 1292">
+     <span class='ocr_line' id='line_1_1' title="bbox 463 1071 1317 1162; baseline 0.001 -18"><span class='ocrx_word' id='word_1_1' title='bbox 463 1072 586 1158; x_wconf 67' lang='lat' dir='ltr'>demto,</span> <span class='ocrx_word' id='word_1_2' title='bbox 623 1095 644 1146; x_wconf 86' lang='lat' dir='ltr'><strong>e</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 674 1071 842 1146; x_wconf 73' lang='lat' dir='ltr'>alhumas</span> <span class='ocrx_word' id='word_1_4' title='bbox 880 1079 1056 1159; x_wconf 56' lang='lat' dir='ltr'><strong>sementa,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1093 1098 1113 1147; x_wconf 82' lang='lat' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_6' title='bbox 1148 1073 1317 1162; x_wconf 80' lang='lat' dir='ltr'><strong>alhumas</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 462 1217 589 1292; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 462 1217 589 1292; x_wconf 58' lang='lat' dir='ltr'>trinta</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 513 1369 1315 1468">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 513 1369 1315 1468">
+     <span class='ocr_line' id='line_1_3' title="bbox 513 1369 1315 1468; baseline 0.001 -25"><span class='ocrx_word' id='word_1_8' title='bbox 513 1371 630 1461; x_wconf 80' lang='lat' dir='ltr'><strong>Quem</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 649 1375 726 1445; x_wconf 83' lang='lat' dir='ltr'>tem</span> <span class='ocrx_word' id='word_1_10' title='bbox 744 1369 897 1446; x_wconf 83' lang='lat' dir='ltr'>ouvidos</span> <span class='ocrx_word' id='word_1_11' title='bbox 915 1394 981 1468; x_wconf 80' lang='lat' dir='ltr'>per</span> <span class='ocrx_word' id='word_1_12' title='bbox 999 1370 1096 1460; x_wconf 89' lang='lat' dir='ltr'>ouvi,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1120 1373 1226 1446; x_wconf 83' lang='lat' dir='ltr'>desse</span> <span class='ocrx_word' id='word_1_14' title='bbox 1246 1370 1315 1444; x_wconf 85' lang='lat' dir='ltr'>elle</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 464 1513 562 1589">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 464 1513 562 1589">
+     <span class='ocr_line' id='line_1_4' title="bbox 464 1513 562 1589; baseline 0.02 -2"><span class='ocrx_word' id='word_1_15' title='bbox 464 1513 562 1589; x_wconf 87' lang='lat' dir='ltr'>ouvi.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1588 5162">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1588 5162">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1588 5162; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1588 5162; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
